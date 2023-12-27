@@ -3,7 +3,8 @@
 I'm currently working on the Data structures, Algorithms, Web Development and Big Data Technologies
 <!--
 **parthdhameliya09/parthdhameliya09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+🌐 Socials:
+https://www.linkedin.com/in/parthdhameliya/
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
