@@ -1,4 +1,3 @@
-<!--
 
 # 💫 About Me:
 I'm currently working on the Data structures, Algorithms, Web Development and Big Data Technologies
@@ -15,6 +14,7 @@ I'm currently working on the Data structures, Algorithms, Web Development and Bi
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+<!--
 <h1 align="center">Hi 👋, I'm Parth Dhameliya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -35,4 +35,4 @@ I'm currently working on the Data structures, Algorithms, Web Development and Bi
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthdhameliya09&show_icons=true&locale=en&layout=compact" alt="parthdhameliya09" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthdhameliya09&show_icons=true&locale=en" alt="parthdhameliya09" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthdhameliya09&show_icons=true&locale=en" alt="parthdhameliya09" /></p>-->
